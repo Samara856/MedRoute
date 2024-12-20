@@ -1,6 +1,6 @@
 
 # Medroute
-![MEDROUTE (1)](https://github.com/user-attachments/assets/040d3233-72ff-4483-ad14-f6f50daef2c7)
+
 
 
 MedRoute: Redefining Healthcare, One Click at a Time
